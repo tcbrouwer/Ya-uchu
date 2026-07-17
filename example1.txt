@@ -27,7 +27,7 @@
 актёр = actor
 вот ... = look ...
 студентка = female student
-фотограф = photograph
+фотограф = photographer
 бизнесмен = businessman
 журналистка = female journalist
 тоже = also
