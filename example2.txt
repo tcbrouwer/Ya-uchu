@@ -2,7 +2,7 @@
 регистрация = reception
 администратор = receptionist
 ваш, ваша, ваше = Your
-фамилия = family naam
+фамилия = family name
 турист = tourist
 имя = first name
 отчество = father's name
@@ -38,7 +38,7 @@
 репетиция = rehearsal
 лифт = elevator
 журнал = magazine
-рубль = roebel
+рубль = ruble
 газета = newspaper
 неделя = week
 вино = wine
