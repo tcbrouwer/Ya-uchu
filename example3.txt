@@ -1,7 +1,7 @@
 улица = straat
 жить = wonen, leven
 нормально = gewoon
-Добрый = goed
+добрый = goed
 день = dag
 хорошо = goed
 работать = werken
@@ -46,7 +46,7 @@
 всегда = altijd
 пиво = bier
 есть = is, zijn
-Даше = zelfs
+даше = zelfs
 голландский = Nederlands
 бельгийский = Belgisch
 правда = echt (waar)
